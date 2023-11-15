@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/birthdayrecords-reactjs-app/static/css/main.d526feae.css",
+    "main.js": "/birthdayrecords-reactjs-app/static/js/main.e3747337.js",
+    "index.html": "/birthdayrecords-reactjs-app/index.html",
+    "main.d526feae.css.map": "/birthdayrecords-reactjs-app/static/css/main.d526feae.css.map",
+    "main.e3747337.js.map": "/birthdayrecords-reactjs-app/static/js/main.e3747337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d526feae.css",
+    "static/js/main.e3747337.js"
+  ]
+}
